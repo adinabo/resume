@@ -1,39 +1,28 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Resume Mini Project
 
-Welcome,
+The scope of this mini-project is done for me to practice HTML, CSS and Bootstrap by building my Locum Dental Nurse resume, that allows dental practices to view my work history and in the future scroll through my availability and book me.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Project Overview
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+It contains information from my personal CV such as: personal details, work experience, education, etc.
 
-## Codeanywhere Reminders
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+Responsive Design using Bootstrap
+Custom styling with CSS
 
-`python3 -m http.server`
+Structure:
+This project will be composed of
+3 pages:to avoid cognitive overload: - index.html - resume.html - contact.html
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+All 3 pages contain the same structure and similar styles, to keep it consistent, intuitive and easy to navigate.
+We use a combination of colors, icons and text tp help the users differentiate navigational elements.
+The users also have a download button to make it easier to download.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## Features To Be Added
 
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+Features to be added in the future:
+QR code which will take the users straight to the webpage
+A calendar with my availability, where the user can select the day and book. The user will be taken to a form where they will insert the dental practice address, schedule with the number of hours they would like to book and once they confirm, they will be taken to a separate page where they will make the payment.
+The user will get a confirmation message and an email to confirm that the locum dental nuse has been booked and some contact information.
+A Terms and Condition link will be added in the footer once all the above is done.
