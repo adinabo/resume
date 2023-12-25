@@ -1,6 +1,6 @@
 # Resume Mini Project
 
-The scope of this mini-project is done for me to practice HTML, CSS and Bootstrap by building my Locum Dental Nurse resume, that allows dental practices to view my work history and in the future scroll through my availability and book me.
+The scope of this mini-project is for me to practice HTML, CSS and Bootstrap by building my Locum Dental Nurse resume, that allows dental practices to view my work history and in the future scroll through my availability and book me.
 
 ## Project Overview
 
