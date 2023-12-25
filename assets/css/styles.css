@@ -129,7 +129,7 @@ header {
 
 /* -------------------------------------------------------------- Hover.css*/
 .hvr-sweep-to-bottom:before {
-    background: rgba(0, 0, 0, 228);
+    background: rgba(0, 0, 0, 0.228);
     height: 120px;
 }
 
@@ -157,7 +157,7 @@ h4 {
     color: #fafafa;
 }
 
-.inlline-block {
+.inline-block {
     display: inline-block;
 }
 
@@ -174,7 +174,7 @@ h4 {
 .history-heading,
 .section-heading {
     font-family: "Exo", sans-serif;
-    font-weight: 300px;
+    font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
 }
@@ -339,6 +339,7 @@ footer {
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 20px;
+
 }
 
 .center-form {
@@ -351,7 +352,7 @@ footer {
     margin-top: 15px;
     margin-bottom: 20px;
     color: #fafafa;
-    background-color: #e84610;
+    background-color: #b042a0;
 }
 
 /*------------------------------------------------------------------*/
